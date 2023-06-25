@@ -27,8 +27,8 @@ const data =[
     id:3,
     image:IMG4,
     title:"Portfolio",
-    github:'https://github.com',
-    demo:'https://github.com'
+    github:'https://github.com/Its-Srinibash/Srinibash-portfolio',
+    demo:'https://srinibashmohanty.netlify.app/'
 
   },
   {
