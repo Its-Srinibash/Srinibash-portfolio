@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe8973d9.css",
+    "main.js": "/static/js/main.cffb438d.js",
+    "static/media/smartBooking.jpeg": "/static/media/smartBooking.9179836e3b2127c86853.jpeg",
+    "static/media/snake.jpg": "/static/media/snake.392ea85c5bf8b3c847e2.jpg",
+    "static/media/me.jpg": "/static/media/me.041008f0a27ca8b849a8.jpg",
+    "static/media/vidyalayClasses.jpg": "/static/media/vidyalayClasses.beea51d34a4fbec36080.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.09392d6f61507fa791b7.jpg",
+    "static/media/cv.pdf": "/static/media/cv.98704fbc67d3c73604b7.pdf",
+    "static/media/s1.png": "/static/media/s1.ea96e504a374b2231588.png",
+    "static/media/Srini3.jpg": "/static/media/Srini3.366ba086ecd52651b6d0.jpg",
+    "static/media/bg.png": "/static/media/bg.7f519f8f41c52211a663.png",
+    "index.html": "/index.html",
+    "main.fe8973d9.css.map": "/static/css/main.fe8973d9.css.map",
+    "main.cffb438d.js.map": "/static/js/main.cffb438d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8973d9.css",
+    "static/js/main.cffb438d.js"
+  ]
+}
