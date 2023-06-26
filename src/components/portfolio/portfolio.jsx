@@ -5,7 +5,7 @@ import IMG2 from '../../assets/vidyalayClasses.jpg'
 import IMG4 from '../../assets/portfolio.jpg'
 import IMG3 from '../../assets/snake.jpg'
 
-
+import IMG5 from '../../assets/pizza.jpg'
 const data =[
   {
     id:1,
@@ -17,14 +17,6 @@ const data =[
   },
   {
     id:2,
-    image:IMG2,
-    title:"VidyalayClasses",
-    github:'https://github.com/Its-Srinibash/Vidyalay',
-    demo:'https://its-srinibash.github.io/Vidyalay/'
-
-  },
-  {
-    id:3,
     image:IMG4,
     title:"Portfolio",
     github:'https://github.com/Its-Srinibash/Srinibash-portfolio',
@@ -32,21 +24,31 @@ const data =[
 
   },
   {
+    id:3,
+    image:IMG5,
+    title:"PiZZA Shop ",
+    github:'https://github.com/Its-Srinibash/pizzaApp/tree/main',
+    demo:'https://srinupizza.netlify.app/'
+
+  },
+ 
+  {
     id:4,
+    image:IMG2,
+    title:"VidyalayClasses",
+    github:'https://github.com/Its-Srinibash/Vidyalay',
+    demo:'https://its-srinibash.github.io/Vidyalay/'
+
+  },
+  {
+    id:5,
     image:IMG3,
     title:"Snake Game",
     github:'https://github.com/Its-Srinibash/Snake',
     demo:' https://its-srinibash.github.io/Snake/'
 
    },
-  // {
-  //   id:5,
-  //   image:IMG1,
-  //   title:"Title of Project",
-  //   github:'https://github.com',
-  //   demo:'https://github.com'
-
-  // },
+  
   // {
   //   id:6,
   //   image:IMG1,
